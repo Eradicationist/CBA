@@ -1,7 +1,7 @@
 # Kernel-Level Anti-Cheat for Unreal Engine
 
 ## Overview
-This project contains a basic template for a Windows kernel-mode anti-cheat driver and a user-mode loader/communicator, both written in C++. Intended for integration with Unreal Engine games.
+This project contains a basic template for a Windows kernel-mode "cryptographic" anti-cheat driver and a user-mode loader/communicator, both written in C++. Intended for integration with Unreal Engine games.
 
 ## Files
 - `AntiCheatDriver.cpp`: Kernel-mode driver source (C++)
