@@ -1,3 +1,5 @@
+UNFINISHED.
+
 Just a little idea I had, and wanted to work on lightly.
 # Kernel-Level Anti-Cheat for Unreal Engine with real-time cryptographic offset server verification.
 
