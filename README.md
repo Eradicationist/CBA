@@ -1,4 +1,4 @@
-# Kernel-Level Anti-Cheat for Unreal Engine
+# Kernel-Level Anti-Cheat for Unreal Engine with real-time cryptographic offset server verification.
 
 ## Overview
 This project contains a basic template for a Windows kernel-mode "cryptographic" anti-cheat driver and a user-mode loader/communicator, both written in C++. Intended for integration with Unreal Engine games.
