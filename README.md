@@ -1,6 +1,6 @@
 UNFINISHED.
 
-Just a little idea I had, and wanted to work on lightly.
+Just a little idea I had, and wanted to work on lightly, I had this idea that if offsets are held in the games exe as cryptographic strings and are read by the server only, in real time, people can no longer pull offsets to create hacks.
 # Kernel-Level Anti-Cheat for Unreal Engine with real-time cryptographic offset server verification.
 
 ## Overview
